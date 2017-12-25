@@ -1,0 +1,49 @@
+
+baseurl = "https://alexnakagawa.com/"
+languageCode = "en-us"
+title = "Alex Nakagawa"
+author = "Alex Nakagawa"
+theme = "cocoa"
+layoutdir = "layouts"
+publishdir = "public"
+pygmentsuseclasses = true
+pluralizelisttitles = false
+
+[permalinks]
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Code"
+weight                 = -100
+identifier             = "code"
+url                    = "/code/"
+
+
+[params]
+include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
+latestpostscount       = 5                             # how many posts to display on the home page
+author                 = "Alex Nakagawa"
+faviconfile            = "img/leaf.ico"
+cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+description            = "Don't panic"
+email                  = "alexnakagawa3@gmail.com"
+github                 = "//github.com/alexnakagawa"
+instagram              = "//instagram.com/alexthenakagawa"
+linkedin               = "//linkedin.com/in/alexnakagawa"
+noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
+selfintro              = ""                            # appears in the site header when set to a non-empty string
+twitter                = "//twitter.com/nakaflocka3"
