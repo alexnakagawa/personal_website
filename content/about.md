@@ -14,7 +14,7 @@ I used to think that _data science_ was a buzzword thrown around for people to g
 
 Here's what makes data science so interesting: while many scientists seek to find solutions to problems through experimental frameworks, data scientists **find the questions** within the 1 million exabytes of data sprawled all over the internet.
 
-> An exabyte is 1 billion billion bytes, or 10<sup>18</sup> bytes. So assuming Netflix holds [3.14 petabytes](http://gizmodo.com/how-netflix-makes-3-14-petabytes-of-video-feel-like-it-498566450) of data in the cloud, the internet can hold all of Netflix's videos **318,471,338** times over. That's a lot of Netflix.
+> An exabyte is 1 billion billion bytes, or 10^18 bytes. So assuming Netflix holds [3.14 petabytes](http://gizmodo.com/how-netflix-makes-3-14-petabytes-of-video-feel-like-it-498566450) of data in the cloud, the internet can hold all of Netflix's videos **318,471,338** times over. That's a lot of Netflix.
 
 ### Why Start a Blog?
 
