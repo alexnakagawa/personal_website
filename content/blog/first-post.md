@@ -3,10 +3,10 @@ title: "First Post"
 tags: ["life", "berkeley", "data"]
 categories: ["Life"]
 date: 2017-12-25T13:20:42-08:00
-draft: true
+draft: false
 ---
 
-![Some ominous fog in Cape Town, South Africa](/static/img/fog.jpg)
+![Some ominous fog in Cape Town, South Africa](/img/fog.jpg)
 
 ### Hey there, buddy.
 
