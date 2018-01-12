@@ -6,7 +6,7 @@ draft: false
 
 ## Before you go, let me introduce myself...
 
-My name is Alex Nakagawa, and I am a computer science major at the [University of California, Berkeley](http://berkeley.edu). More interestingly, I am a [generalist](https://www.forbes.com/sites/meghancasserly/2012/07/10/the-secret-power-of-the-generalist-and-how-theyll-rule-the-future/) who loves to work with numbers and be able to make compelling narratives with large amounts of data.
+My name is Alex Nakagawa, and I am a computer science major at the [University of California, Berkeley](http://berkeley.edu). More interestingly, I am a [generalist](https://hbr.org/2012/06/all-hail-the-generalist) who loves to work with numbers and be able to make compelling narratives with large amounts of data.
 
 ### Aspiring Data Scientist
 
