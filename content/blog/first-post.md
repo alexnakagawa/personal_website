@@ -8,7 +8,7 @@ draft: false
 
 ![Some ominous fog in Cape Town, South Africa](/img/fog.jpg)
 
-### Hey there, buddy.
+## Hey there, buddy.
 
 I'm not so sure why you chose to indulge yourself in my random musings and assortment of data analysis, but you can bet I'm happy that you're here. I really want to make it worth your while, so I promise to be interesting. I started this blog as a challenge for myself to write and think creatively every single day. Well, really, it's more of a culmination of things:
 
@@ -18,6 +18,6 @@ I'm not so sure why you chose to indulge yourself in my random musings and assor
 
 3. Do you agree/disagree with the things that I say? I want to know what you all think and how you all react about my opinions and thoughts.
 
-### ~ The f u t u r e ~
+## ~ The f u t u r e ~
 
 I don't have a direct vision of what I want this blog/website to become, but I'm sure that the answer will come to me sometime throughout this journey. Either way, glad you're along for the ride. If you find that navigating to this website is a little tedious, I will occasionally post my stories on [Medium](https://medium.com/@alexnakagawa) as well.
