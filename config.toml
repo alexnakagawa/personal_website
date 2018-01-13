@@ -28,7 +28,7 @@ url                    = "/about/"
 name                   = "Code"
 weight                 = -100
 identifier             = "code"
-url                    = "/code/"
+url                    = "https://github.com/alexnakagawa"
 
 
 [params]
